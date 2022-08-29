@@ -1,0 +1,24 @@
+C51 COMPILER V9.54   XUNZHI                                                                08/27/2022 23:13:00 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE XUNZHI
+OBJECT MODULE PLACED IN .\Objects\XUNZHI.obj
+COMPILER INVOKED BY: D:\Keil_v5\C51\BIN\C51.EXE ..\..\51标准project\12-1 AT24C02数据存储\XUNZHI.c OPTIMIZE(8,SPEED) BROW
+                    -SE DEBUG OBJECTEXTEND PRINT(.\Listings\XUNZHI.lst) TABS(2) OBJECT(.\Objects\XUNZHI.obj)
+
+line level    source
+
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     84    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----       5
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
